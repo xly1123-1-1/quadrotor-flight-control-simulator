@@ -2,7 +2,7 @@
 
 A Python simulation of a 1 kg quadrotor with six degrees of freedom. The project models how a drone responds to forces and motor commands, while using feedback control to stabilize its flight and return to its starting position. The results are demonstrated in a 3D animation.
 
-![Quadrotor position-recovery simulation](images/position_recovery.png)
+![Quadrotor position-recovery simulation](position_recovery.png)
 
 ## About the project:
 
